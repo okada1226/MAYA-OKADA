@@ -59,14 +59,14 @@ body {
 }
 
 .biography {
-    padding-right: 10px;
+    padding-left: 10px;
 }
 .biography:hover {
   opacity: 0.35;
 }
 
 .works {
-    padding-right: 10px;
+    padding-left: 10px;
 }
 
 .works:hover {
